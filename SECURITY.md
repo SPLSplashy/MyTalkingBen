@@ -7,8 +7,8 @@ currently being supported with security updates.
 
 | Python  | Supported          |
 | ------- | ------------------ |
+| 3.6     | :white_check_mark: |
 | 3.7     | :white_check_mark: |
-| 3.6     | :x:                |
 | 3.8/9   | :white_check_mark: |
 | < 4.0   | :x:                |
 
